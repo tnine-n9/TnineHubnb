@@ -1,5 +1,12 @@
-return {
-    [] = "7X9P2R5T8W1Y3Z6", 
-    [] = "K3J7H2G5F9D4S8A", 
-    [Bac0nByt32017] = "M1N6B4V8C2X0Z9Q"
+  "active": true,
+  "message": "TnineHub",
+  "whitelist_users": [
+    {
+      "username": "Bac0nByt32017",
+      "add_time": "2025/2/7 20:53:27"
+    }
+  ],
+  "blocked_users": [],
+  "version": "2.0.0",
+  "last_updated": "2026-02-07"
 }
