@@ -1,6 +1,3 @@
 {
-  "active": true,
-  "whitelist": [Bac0nByt32017],
-  "blacklist": [],
-  "version": "1.0.0"
+  "ids": [Bac0nByt32017]
 }
