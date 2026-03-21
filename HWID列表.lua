@@ -1,7 +1,7 @@
 {
   "GtHjKlQwErTyUiOp-VexKey1": {
     "username": "2006_Painfulwords",
-    "hwid": "7926572909"
+    "hwid": "13c8be0f-b264-4a52-bf2f-1a4c288c0baf"
   },
   "AsDfGhJkLzXcVbNm-VexKey2": {
     "username": "",
